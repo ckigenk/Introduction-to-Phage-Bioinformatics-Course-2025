@@ -2,8 +2,8 @@
 Welcome to the **Introduction to Phage Bioinformatics Course 2025** repository! This repository contains the lectures, datasets and other material for phage bioinformatics course
 
 ## Course Overview
-### Dates: February 17 - 28, 2025
-### Location: Technical University of Kenya, Nairobi, Kenya
+#### Dates: February 17 - 28, 2025
+#### Location: Technical University of Kenya, Nairobi, Kenya
 
 This course is designed to introduce students, researchers, and enthusiasts to the fundamental concepts and tools of phage bioinformatics. The course will cover topics such as:
 
